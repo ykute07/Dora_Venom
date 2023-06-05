@@ -77,7 +77,7 @@ Players are users who collect NFTs using the MapX app
 
 • Transferable vouchers. Traditional E- vouchers are often restricted to the person intended. Oftentimes, these vouchers are left unspent due to neglect,resulting in wastage.• Non-perishability. Traditional physical vouchers are susceptible to damage , making them a hassle to store. NFT vouchers are stored digitally in the player’s wallet,making them non-perishable
 
-• Transparent. Using the XDCand Filecoin blockchain, NFTs minted can be traced and observed by everyone XDC BLOCKCHAIN
+• Transparent. Using the VENOM and Filecoin blockchain, NFTs minted can be traced and observed by everyone VENOM BLOCKCHAIN
 
 
 
@@ -94,11 +94,11 @@ Venom Pools : Use your VENOM on validator nodes using Venom Pools
 <img src='./MapX_XDC/screenshot/ss5.jpg' />
 
 
-Enterprise : The XDC Network is a groundbreaking blockchain with impressive speed, scalability, low fees, and military-grade security. Using XDC Network, businesses can improve their record keeping, exchange data and transfer assets more efficiently and more securely.
+Enterprise : The VENOM Network is a groundbreaking blockchain with impressive speed, scalability, low fees, and military-grade security. Using XDC Network, businesses can improve their record keeping, exchange data and transfer assets more efficiently and more securely.
 
-Trade Finance : The XDC Network sets a benchmark for digitizing trade finance by enabling the tokenization of diverse trade finance instruments and assets.
+Trade Finance : The VENOM Network sets a benchmark for digitizing trade finance by enabling the tokenization of diverse trade finance instruments and assets.
 
-Developers & Creators : The XDC Network is an enterprise-grade, open-source and EVM-compatible Layer 1 blockchain. Geared to accommodate any EVM tool set, developers can carry their skills from other chains onto the XDC Network.
+Developers & Creators : The VENOM Network is an enterprise-grade, open-source and EVM-compatible Layer 1 blockchain. Geared to accommodate any EVM tool set, developers can carry their skills from other chains onto the VENOM Network.
 
 #### URLs
 https://youtu.be/4cOQlu_haEY
