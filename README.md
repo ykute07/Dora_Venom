@@ -1,6 +1,6 @@
 ## Project Name :- EXPLORE THE WORLD VENTURE OUTSIDE TO CAPTURE GEO-TAGGED NFTs
 ### Team name :- MapX
-#### Hackathon Track :- XDC NETWORK
+#### Hackathon Track :- VENOM HACKATHON
 
 
 ##### Team Members
@@ -81,7 +81,14 @@ Players are users who collect NFTs using the MapX app
 
 
 
-Why XDC : XDC Network is an enterprise-grade, open-source blockchain protocol. An EVM-compatible chain with enforceable smart contracts, it is uniquely suited to revolutionize, decentralize, and liquify the trade finance industry through the tokenization of real world assets and financial instruments.
+Why VENOM : The goal of the Venom Foundation's efforts to promote the use of blockchain technology is to strengthen African communities, connect traditional financial and commercial systems with the web3 economy, and boost regional economic growth through the facilitation of trade and transactions across borders.
+
+Venom Wallet : Safe, reliable, and 100% yours. Manage your assets with Venom's non-custodial wallet.
+
+Venom Scan: Search and explore the immutable records of the Venom blockchain
+
+Venom Pools : Use your VENOM on validator nodes using Venom Pools 
+
 
 
 <img src='./MapX_XDC/screenshot/ss5.jpg' />
